@@ -9,7 +9,7 @@ You'll never be able to break into my secret Java coffee nut stash!
 # Solutions
 First things first after downloading the file given to me in this challenge. I noticed it was a java compiled file so I immidiately threw it into ghidra to decompile and understand the code. 
 
-![ghidra_screenshot](ghidra_screenshot.jpg)
+![ghidra_screenshot](ghidra_screenshot.png)
 
 Got a bunch of nonesense I couldn't quite understand.....
 
